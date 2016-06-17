@@ -11,20 +11,21 @@
         "inherit_index": true,
         "clean_urls": true
     },
-
-    "repo": "Snappey/Zecon-Wiki",
     "html": {
         "theme": "daux-navy",
         "breadcrumbs": true,
         "breadcrumb_separator": "Chevrons",
         "toggle_code": true,
         "date_modified": true,
-        "float": true,
+        "float": false,
         "search": true,
 
+        "repo": "Snappey/Zecon-Wiki",
         "links": {
           "Trello": "https://trello.com/b/kmVvywQY/zecon-project",
-          "SVN": "https://app.assembla.com/spaces/roleplaygamemode/subversion/source"
+          "SVN": "https://app.assembla.com/spaces/roleplaygamemode/subversion/source",
+          "Github": "https://github.com/Snappey/Zecon-Wiki/tree/master/docs",
+          "Contact": "https://steamcommunity.com/id/Snappey"
         }
     }
 }
