@@ -11,6 +11,8 @@
         "inherit_index": true,
         "clean_urls": true
     },
+
+    "repo": "Snappey/Zecon-Wiki",
     "html": {
         "theme": "daux-navy",
         "breadcrumbs": true,
