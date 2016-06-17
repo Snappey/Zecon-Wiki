@@ -16,7 +16,7 @@
         "folders": []
     },
 
-    "timezone": "America/Los_Angeles",
+    "timezone": "Europe/London",
 
     "live": {
         "inherit_index": false,
