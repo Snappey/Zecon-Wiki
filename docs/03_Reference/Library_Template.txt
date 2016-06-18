@@ -8,11 +8,11 @@ Decscription of the Library
 
 #### File Structure
 * List of files used by the library
-##### cl_chatbox.lua
+##### cl_lib.lua
 	
 * [List of Functions defined in this file]()
 
-##### sv_chatbox.lua
+##### sv_lib.lua
 
 * [List of Functions defined in this file]()
 
