@@ -28,7 +28,3 @@ Include a basic description on what this function does (Try not to be too brief)
 ```lua
 	Then show an output of what it produces, pictures is also doable
 ```
-
-## [Page Source](!Reference/Function_Template.txt)
-
-
