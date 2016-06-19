@@ -10,9 +10,9 @@ Used to cache help for commands and rules to use in the clients F1 menu, also in
 * sh_help.lua
 ##### sh_help.lua
 	
-* [cityrp.help.add](Shared/cityrp.help.add)
-* [cityrp.help.get](Shared/cityrp.help.get)
-* [cityrp.help.playerInitialized](Serverside/cityrp.help.playerInitialized)
+* [cityrp.help.add](Help/Shared/cityrp.help.add)
+* [cityrp.help.get](Help/Shared/cityrp.help.get)
+* [cityrp.help.playerInitialized](Help/Serverside/cityrp.help.playerInitialized)
 
 #### Information
 
