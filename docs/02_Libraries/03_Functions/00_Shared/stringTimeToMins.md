@@ -7,7 +7,7 @@ stringTimeToMins(string str)
 
 #### Arguments
 
-**string str** - Time string to conver to minutes
+**string str** - Time string to convert to minutes
 
 #### Returns
 
@@ -17,7 +17,7 @@ stringTimeToMins(string str)
 Converts a time string with the format `100<h/d/w/m>` to minutes.
 
 #### Information
-* [Source]()https://app.assembla.com/spaces/roleplaygamemode/subversion/source/HEAD/gamemode/core/libraries/sh_functions.lua#ln80
+* [Source](https://app.assembla.com/spaces/roleplaygamemode/subversion/source/HEAD/gamemode/core/libraries/sh_functions.lua#ln80)
 
 #### Examples
 ```lua
